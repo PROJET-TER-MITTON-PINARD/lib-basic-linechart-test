@@ -18,6 +18,9 @@
     "@angular/platform-browser": "~12.0.3",
     "@angular/platform-browser-dynamic": "~12.0.3",
     "@angular/router": "~12.0.3",
+    "@types/d3": "^6.7.0",
+    "basic-linechart": "github:PROJET-TER-MITTON-PINARD/lib-basic-linechart#main",
+    "d3": "^6.7.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.1.0",
     "zone.js": "~0.11.4"
